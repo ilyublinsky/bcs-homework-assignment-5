@@ -41,4 +41,4 @@ To start over, click 'CLEAR ALL' icon at the bottom to start over.
 
 The following animation demonstrates the application functionality:
 
-![ScreenShot](/Assets/05-third-party-apis-homework-demo.gif)
+![ScreenShot](/Assests/05-third-party-apis-homework-demo.gif)
