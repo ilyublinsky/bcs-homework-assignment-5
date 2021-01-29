@@ -42,3 +42,12 @@ To start over, click 'CLEAR ALL' icon at the bottom to start over.
 The following animation demonstrates the application functionality:
 
 ![ScreenShot](/Assests/05-third-party-apis-homework-demo.gif)
+
+## Credits
+
+[Moment.js](https://momentjs.com/)
+
+[Font Awesome](https://fontawesome.com/)
+
+[Bootstrap](https://getbootstrap.com/)
+
